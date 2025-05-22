@@ -13,3 +13,4 @@ htmlcov/
 .nox/
 .hypothesis/
 .python-version
+__pycache__/*
