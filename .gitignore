@@ -1,0 +1,15 @@
+# Python Poetry
+dist/
+build/
+*.egg-info/
+.venv/
+poetry.lock
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.python-version
